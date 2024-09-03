@@ -8,10 +8,9 @@ This repository includes data preprocessing, exploratory analysis, and recommend
 ## Table of Contents
 
 - Data
-    Analysis
-    Results
-    Visualization
-    Contributing
-    License
+- Analysis
+- Results
+- Visualization
 
-You can view the interactive Tableau dashboard for this project [here](https://public.tableau.com/app/profile/aykut.avci/viz/CustomerSegmentationAnalysis-UKOnlineRetailDataset/CustomerDashboard)
+
+  You can view the interactive Tableau dashboard for this project [here](https://public.tableau.com/app/profile/aykut.avci/viz/CustomerSegmentationAnalysis-UKOnlineRetailDataset/CustomerDashboard)
