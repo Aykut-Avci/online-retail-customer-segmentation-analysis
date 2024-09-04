@@ -31,7 +31,7 @@ The dataset contains transactions from a real UK-based online retail company, wh
 
 Originally **Description** and **CustomerID** columns contains null values with 22.77% of the rows for customerid being null, we proceeded with dropping these rows since deduction of these customerid from invoice numbers wasn't possible. Dropping null customerids resulted in all non-null description column. For RFM analysis, we omitted cancelled orders since they had negative quantities and would affect the monetary value of the customers with cancelled orders. Clean dataset contains `824364` records.
 
-[Link to data on Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset/data)
+[Source of dataset - Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset/data)
 
 ## Analysis
 - Results
