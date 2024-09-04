@@ -34,6 +34,14 @@ Originally **Description** and **CustomerID** columns contains null values with 
 [Source of dataset - Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset/data)
 
 ## Analysis
+
+1. Data Preparation: Data is preprocessed to remove duplicates, null values and implausible values.
+2. RFM Score calculation:
+    - Recency: Number of days between the reference date and the date each customer made their last purchase.
+    - Frequency: The total number of purchases made by the customer.
+    - Monetary: The total amount spent by the customer across all transactions.
+
+   After calculation of these metrics for each customer, they have been given a score(1-5), with higher scores indicating better performance(more recent purchase, higher frequency and higher spending)
 - Results
 - Visualization
 
