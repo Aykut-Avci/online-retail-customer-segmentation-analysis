@@ -45,6 +45,10 @@ Originally **Description** and **CustomerID** columns contains null values with 
 
 After calculation of these metrics for each customer, they have been given a score(1-5), with higher scores indicating better performance(more recent purchase, higher frequency and higher spending).
 
+**3.Customer Segmentation:**
+
+After calculation of RFM Score by summing up individual Recency, Frequency and Monetary Scores, customers were divided into 4 meaningful categories such as 'Champions', 'Loyal Customers', 'Needs Attention' and 'At Risk'.
+
 ## Visualization
 
 
