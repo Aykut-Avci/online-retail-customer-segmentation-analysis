@@ -11,7 +11,7 @@ This repository includes data preprocessing, exploratory analysis, and recommend
 ## Table of Contents
 
 - **Data:** Dataset contains the transactions from a real UK-based online retail company, which mainly sells unique all-occasion giftware. The raw dataset consists of `1,067,371` records and `8` attributes as follows:
-   1. **InvoiceNo:** Invoice number. *Nominal*. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'C', it indicates a cancellation.
+   1. **InvoiceNo:** Invoice number. *Nominal*. A 6-digit integral number uniquely assigned to each transaction. Invoice numbers that start with the letter 'C' indicates a cancellation.
    2. **StockCode:** Product (item) code. *Nominal*. A 5-digit integral number uniquely assigned to each distinct product.
    3. **Description:** Product (item) name. *Nominal*.
    4. **Quantity:** The quantities of each product (item) per transaction. *Numeric*.
