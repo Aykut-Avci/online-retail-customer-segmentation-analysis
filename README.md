@@ -11,7 +11,14 @@ This repository includes data preprocessing, exploratory analysis, and recommend
 ## Table of Contents
 
 - Data: Dataset contains the transactions from a real UK-based online retails company, which mainly sells unique all-occasion gift-ware. Raw dataset consists of 1067371 records and 8 attributes as:
-  - adasd
+  * InvoiceNo: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation.
+  * StockCode: Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product.
+  * Description: Product (item) name. Nominal.
+  * Quantity: The quantities of each product (item) per transaction. Numeric.
+  * InvoiceDate: Invice date and time. Numeric. The day and time when a transaction was generated.
+  * UnitPrice: Unit price. Numeric. Product price per unit in sterling (Â£).
+  * CustomerID: Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer.
+  * Country: Country name. Nominal. The name of the country where a customer resides.
 - Analysis
 - Results
 - Visualization
