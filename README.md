@@ -10,7 +10,8 @@ This repository includes data preprocessing, exploratory analysis, and recommend
 
 ## Table of Contents
 
-- Data
+- Data: Dataset contains the transactions from a real UK-based online retails company, which mainly sells unique all-occasion gift-ware. Raw dataset consists of 1067371 records and 8 attributes as:
+  - adasd
 - Analysis
 - Results
 - Visualization
