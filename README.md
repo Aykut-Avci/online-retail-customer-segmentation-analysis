@@ -37,6 +37,7 @@ Originally **Description** and **CustomerID** columns contains null values with 
 
 **1. Data Preparation:** Data is preprocessed to remove duplicates, null values and implausible values.
 **2. RFM Score calculation:**
+
     
     * Recency: Number of days between the reference date and the date each customer made their last purchase.
     * Frequency: The total number of purchases made by the customer.
