@@ -6,7 +6,7 @@
 
 This project aims to segment customers based on their purchasing behavior using the "Online Retail II" dataset. This dataset contains transactions from a UK-based online retailer, covering the period from 01/12/2009 to 09/12/2011. By performing RFM (Recency, Frequency, Monetary) analysis, we identify distinct customer segments, which helps in developing targeted marketing strategies to boost sales and enhance customer satisfaction.
  
-This repository includes data preprocessing, exploratory analysis, and recommendations. Customer segments are labeled in the clean dataset and visualized using Tableau.
+This repository includes data preprocessing, exploratory analysis, and recommendations. At the end of the analysis on jupyter notebook, customer segments are labeled in the clean dataset and visualized using Tableau.
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ The dataset contains transactions from a real UK-based online retail company, wh
    7. **CustomerID:** Customer number. *Nominal*. A 5-digit integral number uniquely assigned to each customer.
    8. **Country:** Country name. *Nominal*. The name of the country where a customer resides.
 
-**Description** and **CustomerID** Columns contains null values with 22.77% of the rows for customerid being null, we proceeded with dropping these rows since deduction of these customerid from invoice numbers wasn't possible. Dropping null customerids resulted in all non-null description column. Clean dataset contains `824364` records 
+Originally **Description** and **CustomerID** columns contains null values with 22.77% of the rows for customerid being null, we proceeded with dropping these rows since deduction of these customerid from invoice numbers wasn't possible. Dropping null customerids resulted in all non-null description column. Clean dataset contains `824364` records. For RFM analysis, we omitted cancelled orders since they had negative quantities and would affect the monetary value of the customers with cancelled orders. 
 
 [Link to data on Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset/data)
 
