@@ -48,6 +48,7 @@ After calculation of these metrics for each customer, they have been given a sco
 **3.Customer Segmentation:**
 
 After calculation of RFM Score by summing up individual Recency, Frequency and Monetary Scores, customers were divided into 4 meaningful categories such as `Champions`, `Loyal Customers`, `Needs Attention` and `At Risk`.
+Then we analyzed segment profiles by identifying key statistics for each segment, such as mean, max, min, and total (sum). 
 
 ## Visualization
 
