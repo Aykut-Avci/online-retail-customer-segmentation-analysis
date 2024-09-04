@@ -29,6 +29,8 @@ The dataset contains transactions from a real UK-based online retail company, wh
    7. **CustomerID:** Customer number. *Nominal*. A 5-digit integral number uniquely assigned to each customer.
    8. **Country:** Country name. *Nominal*. The name of the country where a customer resides.
 
+[Source of data](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset/data)
+
 - Analysis
 - Results
 - Visualization
