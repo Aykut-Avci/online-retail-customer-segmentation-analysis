@@ -13,8 +13,8 @@ This repository includes data preprocessing, exploratory analysis, and recommend
 
 1. [Data](#data)
 2. [Analysis](#analysis)
-3. [Results](#results)
-4. [Visualization](#visualization)
+3. [Visualization](#visualization)
+4. [Results](#results)
 
 ## Data
 
