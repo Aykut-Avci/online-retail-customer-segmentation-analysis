@@ -69,4 +69,5 @@ After assignment of segment labels to each customers, we exported clean segment 
 
  - Number of Customers in Champions segment account for 16.35% of total customers, whereas their contribution to total sales is substantial, which is 65.71% of total sales. These customers have high value since they make frequent purchases(on average 21.45) and have high monetary value. 
  - Second most valuable customer segment is Loyal Customers, these customers have a mean recency of 69 Days, meaning their last engagement is within the last 3 months and they account for 21.19% Total Revenue.
- - 
+ - Customers in Need Attention segment made their last purchase on average 176 Days ago, they made 3 purchases on average and their expenditure account for 9.54% of Total Sales. Strategies should focus on reattracting these customers since their average last purchase date is within the last 6 months there is still potential to bring them back and they have a notable impact on the total revenue.
+ - Customer in At Risk Segment have quite low contribution in the total sales(3.66%), on average they made their purchase more than 1 year ago and their order frequency is quite low(1.36). Although metrics in this category provide a negative picture, these customers represent a large portion of our customer base(33%).  
