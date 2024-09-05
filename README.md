@@ -67,7 +67,30 @@ After assignment of segment labels to each customers, we exported clean segment 
 ## Results
 
 
- - Number of Customers in Champions segment account for 16.35% of total customers, whereas their contribution to total sales is substantial, which is 65.71% of total sales. These customers have high value since they make frequent purchases(on average 21.45) and have high monetary value. 
- - Second most valuable customer segment is Loyal Customers, these customers have a mean recency of 69 Days, meaning their last engagement is within the last 3 months and they account for 21.19% Total Revenue.
- - Customers in Need Attention segment made their last purchase on average 176 Days ago, they made 3 purchases on average and their expenditure account for 9.54% of Total Sales. Strategies should focus on reattracting these customers since their average last purchase date is within the last 6 months there is still potential to bring them back and they have a notable impact on the total revenue.
- - Customer in At Risk Segment have quite low contribution in the total sales(3.66%), on average they made their purchase more than 1 year ago and their order frequency is quite low(1.36). Although metrics in this category provide a negative picture, these customers represent a large portion of our customer base(33%).  
+Summary of Customer Segments
+
+    Champions
+        Share: 16.35% of customers (961)
+        Contribution: 65.71% of sales
+        Insights: These customers are highly valuable, with frequent purchases and high spending. They should be prioritized for loyalty programs and rewards.
+
+    Loyal Customers
+        Share: 22.93% of customers (1348)
+        Contribution: 21.19% of sales
+        Insights: They have recent engagement and significant average spend. Focus on maintaining their loyalty to sustain revenue.
+
+    Needs Attention
+        Share: 26.95% of customers (1584)
+        Contribution: 9.54% of sales
+        Insights: Potential for re-engagement as their last purchase was within the last 6 months. Targeted strategies could increase their revenue contribution.
+
+    At Risk
+        Share: 33.77% of customers (1985)
+        Contribution: 3.66% of sales
+        Insights: Although they contribute minimally to current sales, they represent a large portion of the customer base. Re-engagement strategies could recover some lost revenue.
+
+Consolidated Insights
+
+    High Value: "Champions" are the most valuable segment, representing a small portion of the customer base but contributing a large share of sales. Their retention and engagement are crucial.
+    Potential Growth: "Loyal Customers" and "Needs Attention" segments present opportunities for growth. Focus on strategies to maintain and increase their engagement.
+    Re-engagement Opportunity: "At Risk" customers, despite their low current revenue, represent a significant portion of the customer base. Effective re-engagement strategies could potentially recover lost revenue.
