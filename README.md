@@ -77,7 +77,7 @@ After assignment of segment labels to each customers, we exported clean segment 
 - Loyal Customers
     * Share: 22.93% of customers (1348)
     * Contribution: 21.19% of sales
-    * Insights: They have recent engagement and significant average spend. Focus on maintaining their loyalty to sustain revenue.
+    * Insights: They have recent engagement and significant average spend. Focusing on maintaining their loyalty could sustain revenue.
 
 - Needs Attention
     * Share: 26.95% of customers (1584)
