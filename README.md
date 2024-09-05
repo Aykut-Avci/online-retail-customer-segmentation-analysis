@@ -70,27 +70,26 @@ After assignment of segment labels to each customers, we exported clean segment 
 ### Summary of Customer Segments
 
 - Champions
-    Share: 16.35% of customers (961)
-    Contribution: 65.71% of sales
-    Insights: These customers are highly valuable, with frequent purchases and high spending. They should be prioritized for loyalty programs and rewards.
+    * Share: 16.35% of customers (961)
+    * Contribution: 65.71% of sales
+    * Insights: These customers are highly valuable, with frequent purchases and high spending. They should be prioritized for loyalty programs and rewards.
 
 - Loyal Customers
-    Share: 22.93% of customers (1348)
-    Contribution: 21.19% of sales
-    Insights: They have recent engagement and significant average spend. Focus on maintaining their loyalty to sustain revenue.
+    * Share: 22.93% of customers (1348)
+    * Contribution: 21.19% of sales
+    * Insights: They have recent engagement and significant average spend. Focus on maintaining their loyalty to sustain revenue.
 
 - Needs Attention
-    Share: 26.95% of customers (1584)
-    Contribution: 9.54% of sales
-    Insights: Potential for re-engagement as their last purchase was within the last 6 months. Targeted strategies could increase their revenue contribution.
+    * Share: 26.95% of customers (1584)
+    * Contribution: 9.54% of sales
+    * Insights: Potential for re-engagement as their last purchase was within the last 6 months. Targeted strategies could increase their revenue contribution.
 
 - At Risk
-    Share: 33.77% of customers (1985)
-    Contribution: 3.66% of sales
-    Insights: Although they contribute minimally to current sales, they represent a large portion of the customer base. Re-engagement strategies could recover some lost revenue.
+    * Share: 33.77% of customers (1985)
+    * Contribution: 3.66% of sales
+    * Insights: Although they contribute minimally to current sales, they represent a large portion of the customer base. Re-engagement strategies could recover some lost revenue.
 
-Consolidated Insights
 
-    High Value: "Champions" are the most valuable segment, representing a small portion of the customer base but contributing a large share of sales. Their retention and engagement are crucial.
-    Potential Growth: "Loyal Customers" and "Needs Attention" segments present opportunities for growth. Focus on strategies to maintain and increase their engagement.
-    Re-engagement Opportunity: "At Risk" customers, despite their low current revenue, represent a significant portion of the customer base. Effective re-engagement strategies could potentially recover lost revenue.
+    **High Value:** "Champions" are the most valuable segment, representing a small portion of the customer base but contributing a large share of sales. Their retention and engagement are crucial.
+    **Potential Growth:** "Loyal Customers" and "Needs Attention" segments present opportunities for growth. Focus on strategies to maintain and increase their engagement.
+    **Re-engagement Opportunity:** "At Risk" customers, despite their low current revenue, represent a significant portion of the customer base. Effective re-engagement strategies could potentially recover lost revenue.
