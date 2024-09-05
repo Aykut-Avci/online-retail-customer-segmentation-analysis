@@ -65,3 +65,8 @@ After assignment of segment labels to each customers, we exported clean segment 
 
 
 ## Results
+
+
+ - Number of Customers in Champions segment account for 16.35% of total customers, whereas their contribution to total sales is substantial, which is 65.71% of total sales. These customers have high value since they make frequent purchases(on average 21.45) and have high monetary value. 
+ - Second most valuable customer segment is Loyal Customers, these customers have a mean recency of 69 Days, meaning their last engagement is within the last 3 months and they account for 21.19% Total Revenue.
+ - 
