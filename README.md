@@ -90,6 +90,4 @@ After assignment of segment labels to each customers, we exported clean segment 
     * Insights: Although they contribute minimally to current sales, they represent a large portion of the customer base. Re-engagement strategies could recover some lost revenue.
 
 
-    **High Value:** "Champions" are the most valuable segment, representing a small portion of the customer base but contributing a large share of sales. Their retention and engagement are crucial.
-    **Potential Growth:** "Loyal Customers" and "Needs Attention" segments present opportunities for growth. Focus on strategies to maintain and increase their engagement.
-    **Re-engagement Opportunity:** "At Risk" customers, despite their low current revenue, represent a significant portion of the customer base. Effective re-engagement strategies could potentially recover lost revenue.
+   
