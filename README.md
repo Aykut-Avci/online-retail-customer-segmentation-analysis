@@ -54,7 +54,7 @@ Then we described segment profiles by identifying key statistics for each segmen
 
 After assignment of segment labels to each customers, we exported clean segment labelled dataset, consisting of purchases to create a dashboard on Tableau to visualize Sales and Customer Segmentation related plots. You can view the interactive Tableau dashboard for this project [here](https://public.tableau.com/app/profile/aykut.avci/viz/CustomerSegmentationAnalysis-UKOnlineRetailDataset/CustomerDashboard). 
 
-  ##### Dashboard Overview:
+  ##### **Dashboard Overview:**
   
   - **Big Aggregate Numbers**: This section displays three key performance indicators (KPIs) that can be filtered across different years.
   - **Order Frequency and Recency**: Visualizations of order frequency and recency provide insights into customer behavior over time.
