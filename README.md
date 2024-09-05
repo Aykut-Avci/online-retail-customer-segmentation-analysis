@@ -33,7 +33,7 @@ Originally **Description** and **CustomerID** columns contains null values with 
 
 [Source of dataset - Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset/data)
 
-## Analysis
+## Analysis 
 
 **1. Data Preparation:**  Data is preprocessed to remove duplicates, null values and implausible values.
 
