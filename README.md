@@ -52,7 +52,7 @@ Then we described segment profiles by identifying key statistics for each segmen
 
 **4.Visualization:**
 
-After assignment of segment labels to each customers, we exported clean segment labelled dataset, consisting of purchases to create a dashboard on Tableau to visualize Sales and Customer Segmentation related plots. You can view the interactive Tableau dashboard for this project [here](https://public.tableau.com/app/profile/aykut.avci/viz/CustomerSegmentationAnalysis-UKOnlineRetailDataset/CustomerDashboard). 
+After assignment of segment labels to each customers, we exported clean segment labelled dataset, consisting of purchases to create a dashboard on Tableau to visualize Sales and Customer Segmentation related plots.  
 
   #### **Dashboard Overview:**
   
@@ -60,6 +60,8 @@ After assignment of segment labels to each customers, we exported clean segment 
   - **Order Frequency and Recency**: Visualizations of order frequency and recency provide insights into customer behavior over time.
   - **Top 10 Customers**: A graph showing the top 10 customers based on monetary value helps identify high-value customers.
 
+
+ Feel free to view the interactive Tableau dashboard for this project [here](https://public.tableau.com/app/profile/aykut.avci/viz/CustomerSegmentationAnalysis-UKOnlineRetailDataset/CustomerDashboard).
 
 
 ## Results
