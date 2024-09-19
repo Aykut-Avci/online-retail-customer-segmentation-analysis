@@ -4,7 +4,7 @@
 
 ## Project Overview 
 
-In this project we aim to segment customers based on their purchasing behavior using the "Online Retail II" dataset. By performing RFM (Recency, Frequency, Monetary) analysis, we can:
+In this project we segment customers based on their purchasing behavior using the "Online Retail II" dataset. By performing RFM (Recency, Frequency, Monetary) analysis, we aim to:
 
 - Identify High-Value Customers
 - Increase Customer Retention
