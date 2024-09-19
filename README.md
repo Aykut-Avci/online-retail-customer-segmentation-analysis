@@ -64,7 +64,7 @@ After assignment of segment labels to each customers, we exported clean segment 
  Feel free to view the interactive Tableau dashboard for this project [here](https://public.tableau.com/app/profile/aykut.avci/viz/CustomerSegmentationAnalysis-UKOnlineRetailDataset/CustomerDashboard).
 
 
-## Results
+## Results & Recommendations
 
 
 ### Summary of Customer Segments
