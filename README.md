@@ -4,9 +4,14 @@
 
 ## Project Overview 
 
-This project aims to segment customers based on their purchasing behavior using the "Online Retail II" dataset. This dataset contains transactions from a UK-based online retailer, covering the period from 01/12/2009 to 09/12/2011. By performing RFM (Recency, Frequency, Monetary) analysis, we identify distinct customer segments, which helps in developing targeted marketing strategies to boost sales and enhance customer satisfaction.
- 
-This repository includes data preprocessing, exploratory analysis, and recommendations. At the end of the analysis on jupyter notebook, customer segments are labeled in the clean dataset and visualized using Tableau.
+In this project we segment customers based on their purchasing behavior using the "Online Retail II" dataset. By performing RFM (Recency, Frequency, Monetary) analysis, we aim to:
+
+- Identify High-Value Customers
+- Increase Customer Retention
+- Improve Targeted Marketing
+- Increase Sales and Revenue
+
+The dataset contains transactions from a UK-based online retailer, covering the period from 01/12/2009 to 09/12/2011. This repository includes data preprocessing, exploratory analysis, and recommendations. At the end of the analysis on jupyter notebook, customer segments are labeled in the clean dataset and visualized using Tableau.
 
 ## Table of Contents
 
@@ -64,7 +69,7 @@ After assignment of segment labels to each customers, we exported clean segment 
  Feel free to view the interactive Tableau dashboard for this project [here](https://public.tableau.com/app/profile/aykut.avci/viz/CustomerSegmentationAnalysis-UKOnlineRetailDataset/CustomerDashboard).
 
 
-## Results
+## Results & Recommendations
 
 
 ### Summary of Customer Segments
